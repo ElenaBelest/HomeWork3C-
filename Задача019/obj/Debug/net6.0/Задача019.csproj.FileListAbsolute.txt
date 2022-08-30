@@ -1,0 +1,15 @@
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.csproj.AssemblyReference.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.AssemblyInfoInputs.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.AssemblyInfo.cs
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.csproj.CoreCompileInputs.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\bin\Debug\net6.0\Задача019.exe
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\bin\Debug\net6.0\Задача019.deps.json
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\bin\Debug\net6.0\Задача019.runtimeconfig.json
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\bin\Debug\net6.0\Задача019.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\bin\Debug\net6.0\Задача019.pdb
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\refint\Задача019.dll
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.pdb
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\Задача019.genruntimeconfig.cache
+D:\Лена\Geekbrains\C#\ДЗ Семинар 3\Задача019\obj\Debug\net6.0\ref\Задача019.dll
